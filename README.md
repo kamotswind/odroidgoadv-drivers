@@ -9,7 +9,7 @@ You may need to install the build-essential package, among other packages, to co
 Ensure you have an Internet connection on your device already.
 If you can't get one, you will not be able to use the below instructions.
 
-Do the following steps:
+Do the following steps (run as root):
 1) Run: ./build.sh
 2) Ensure there were no errors.
 3) Run: ./install.sh
