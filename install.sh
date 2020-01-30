@@ -1,5 +1,7 @@
 #!/bin/bash
 
+apt install -y bluetooth bluez-tools
+
 cd ew-7611ulb
 make install
 make clean
